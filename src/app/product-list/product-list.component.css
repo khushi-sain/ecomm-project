@@ -1,0 +1,72 @@
+img{
+    width: 1250px;
+    height: 600px;
+}
+
+.card-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fefbfb;
+    font-size: 18px;
+}
+.btn{
+   margin-right: 10px;
+}
+
+.card-top{
+    width: 165px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:  #3a6b35;
+    font-weight: bold;   
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color:  #cbd18f;
+}
+H3{
+    text-align: center;
+    font-weight: bolder;
+    color: #e3b448;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #dd1515;
+}
+.card{
+    background-color:#416d3d;   
+}
+.card1{
+    background-color:#b28e3a;   
+}
+.card-top1{
+    width: 356px;
+}
+.card-title1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fefbfb;
+    font-size: 23px;
+}
+  
+h6{
+    text-align: center;
+    color:#416d3d;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+   font-size: 15px;
+  }
+  
+ 
+  
